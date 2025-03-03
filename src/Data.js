@@ -1,4 +1,4 @@
-const Movies = [
+export default [
     {
         id: 1,
         title: "Metal Gear Solid: The Movie ft. Tom Holland and Awkwafina",
@@ -108,5 +108,3 @@ const Movies = [
         ]
     }
 ]
-
-export default Data
