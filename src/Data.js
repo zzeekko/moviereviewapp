@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         title: "Metal Gear Solid",
-        cover: "images/mgs.jpg",
+        cover: "assets/mgs.jpg",
         showtime1Day: "Wednesday",
         showtime1Time: "9:00 PM",
         showtime2Day: "Thursday",
@@ -16,7 +16,7 @@ export default [
     {
         id: 2,
         title: "The Amazing Bulk",
-        cover: "images/bulk.jpg",
+        cover: "assets/bulk.jpg",
         showtime1Day: "Monday",
         showtime1Time: "1:00 PM",
         showtime2Day: "Thursday",
@@ -29,7 +29,7 @@ export default [
     {
         id: 3,
         title: "The Room",
-        cover: "images/room.jpg",
+        cover: "assets/room.jpg",
         showtime1Day: "Friday",
         showtime1Time: "10:00 PM",
         showtime2Day: "Sunday",
@@ -42,7 +42,7 @@ export default [
     {
         id: 4,
         title: "Who Killed Captain Alex?",
-        cover: "images/alex.jpg",
+        cover: "assets/alex.jpg",
         showtime1Day: "Tuesday",
         showtime1Time: "3:00 PM",
         showtime2Day: "Saturday",
@@ -55,7 +55,7 @@ export default [
     {
         id: 5,
         title: "Left Behind",
-        cover: "images/left.jpg",
+        cover: "assets/left.jpg",
         showtime1Day: "Wednesday",
         showtime1Time: "6:00 PM",
         showtime2Day: "Friday",
@@ -68,7 +68,7 @@ export default [
     {
         id: 6,
         title: "Ratatoing",
-        cover: "images/ratatoing.jpg",
+        cover: "assets/ratatoing.jpg",
         showtime1Day: "Thursday",
         showtime1Time: "2:00 PM",
         showtime2Day: "Sunday",
@@ -81,7 +81,7 @@ export default [
     {
         id: 7,
         title: "Birdemic 2: The Resurrection",
-        cover: "images/birdemic.jpg",
+        cover: "assets/birdemic.jpg",
         showtime1Day: "Monday",
         showtime1Time: "4:00 PM",
         showtime2Day: "Wednesday",
@@ -94,7 +94,7 @@ export default [
     {
         id: 8,
         title: 'House of the Dead',
-        cover: 'images/house.jpg',
+        cover: 'assets/house.jpg',
         showtime1Day: 'Friday',
         showtime1Time: '10:00 PM',
         showtime2Day: 'Saturday',
@@ -107,7 +107,7 @@ export default [
     {
         id: 9,
         title: 'Foodfight!',
-        cover: 'images/foodfight.jpg',
+        cover: 'assets/foodfight.jpg',
         showtime1Day: 'Saturday',
         showtime1Time: '2:00 PM',
         showtime2Day: 'Sunday',
@@ -120,7 +120,7 @@ export default [
     {
         id: 10,
         title: 'The Star Wars Holiday Special',
-        cover: 'images/starwars.jpg',
+        cover: 'assets/starwars.jpg',
         showtime1Day: 'Monday',
         showtime1Time: '7:00 PM',
         showtime2Day: 'Tuesday',
@@ -133,7 +133,7 @@ export default [
     {
         id: 11,
         title: 'Cool Cat Saves the Kids',
-        cover: 'images/coolcat.jpg',
+        cover: 'assets/coolcat.jpg',
         showtime1Day: 'Tuesday',
         showtime1Time: '11:00 AM',
         showtime2Day: 'Thursday',
@@ -146,7 +146,7 @@ export default [
     {
         id: 12,
         title: 'The Little Panda Fighter',
-        cover: 'images/panda.jpg',
+        cover: 'assets/panda.jpg',
         showtime1Day: 'Wednesday',
         showtime1Time: '3:00 PM',
         showtime2Day: 'Friday',
